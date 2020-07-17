@@ -1,0 +1,62 @@
+
+---Downloaded files---
+The import files for: Import Free Education Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/new_WP/wordpress
+Data file = C:\xampp\htdocs\new_WP\wordpress/wp-content/themes/free-education//inc/demo/contents.xml
+Widget file = C:\xampp\htdocs\new_WP\wordpress/wp-content/themes/free-education//inc/demo/widgets.wie
+Customizer file = C:\xampp\htdocs\new_WP\wordpress/wp-content/themes/free-education//inc/demo/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category Programming
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Categories - Categories - Imported
+Sidebar: Recent Posts Widget - No Title - Imported
+
+Footer widget : 
+
+Art of Debating About Widget - No Title - Imported
+Art of Debating Useful Links Widget - No Title - Imported
+Footer: Latest Posts Widget - No Title - Imported
+newsletterwidgetminimal - Subscribe Newsletter - Site does not support widget
+
+Google map iframe : 
+
+Custom HTML - No Title - Imported
+
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Categories - Categories - Widget already exists
+Sidebar: Recent Posts Widget - No Title - Widget already exists
+
+Footer widget : 
+
+Art of Debating About Widget - No Title - Widget already exists
+Art of Debating Useful Links Widget - No Title - Widget already exists
+Footer: Latest Posts Widget - No Title - Widget already exists
+newsletterwidgetminimal - Subscribe Newsletter - Site does not support widget
+
+Google map iframe : 
+
+Custom HTML - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

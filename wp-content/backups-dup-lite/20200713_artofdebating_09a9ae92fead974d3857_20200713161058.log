@@ -1,0 +1,84 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: July 13, 2020 4:11 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.3.36
+WORDPRESS:	5.4.2
+PHP INFO:	7.4.7 | SAPI: apache2handler
+SERVER:		Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.4.7 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 6MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20200713_artofdebating_09a9ae92fead974d3857_20200713161058_database.sql
+SQL FILE SIZE: 770.5KB (788993)
+SQL FILE TIME: 2020-07-13 16:11:16
+SQL RUNTIME: 5.99 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/xampp/htdocs/new_WP/wordpress
+ARCHIVE FILE: 20200713_artofdebating_09a9ae92fead974d3857_20200713161058_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	78.22MB
+STATS:	Dirs 357 | Files 2,855
+SQL ADDED: 20200713_artofdebating_09a9ae92fead974d3857_20200713161058_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 3212
+    [filename] => C:\xampp\htdocs\new_WP\wordpress\wp-content\backups-dup-lite\tmp\20200713_artofdebating_09a9ae92fead974d3857_20200713161058_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 3211
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 36.28MB
+ARCHIVE RUNTIME: 72.97 sec.
+MEMORY STACK: 8MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip C:/xampp/htdocs/new_WP/wordpress/wp-content/backups-dup-lite/tmp/20200713_artofdebating_09a9ae92fead974d3857_20200713161058_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 770.5KB
+INSTALLER FILE: 61.32KB
+ARCHIVE FILE: 37.76MB 
+EXPECTED FILE/DIRECTORY COUNT: 3,212
+ACTUAL FILE/DIRECTORY COUNT: 3,211
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 80.50 sec.
+PEAK PHP MEMORY USED: 8MB
+DONE PROCESSING => 20200713_artofdebating July 13, 2020 4:12 pm
+
